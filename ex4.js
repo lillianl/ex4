@@ -4,8 +4,9 @@
 
 $(function() {
   console.log("ready");
+
     
-    //backpack hover 
+//backpack hover 
  $('img:nth-child(1)').hover(function() {
   $(this).attr('src', 'images/backpackHover.png')
   ;
@@ -55,8 +56,7 @@ $(function() {
     $(this).attr('src','images/phone.png');
 
   });
-    
-    //hide descriptions 
+//hide descriptions 
 $('p').hide();
                         
 // toggle click 
@@ -84,3 +84,4 @@ $('p#phone').slideToggle();
         
 
   
+    

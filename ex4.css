@@ -56,7 +56,6 @@ img {
 }
 
 
-}
 
 p {   
     position: fixed;
@@ -64,7 +63,7 @@ p {
     width:150px ; 
     height:150px;
     top:550px; 
-    /*padding:25px;*/
+    padding:25px;
 
 }
 p#backpack {
